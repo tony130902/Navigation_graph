@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
 
         binding.bottomNavView.setupWithNavController(navController)
 
-        println("Hello")
 
 
     }
